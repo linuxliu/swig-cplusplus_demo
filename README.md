@@ -1,4 +1,4 @@
 # 使用方式
-swig -c++ -python ajmdtool.i
-python3 setup.py build
-python3 test.py
+1. swig -c++ -python ajmdtool.i
+2. python3 setup.py build
+3. python3 test.py
